@@ -1,5 +1,3 @@
-# Learn Easy way to Web Development
-
 1. This is medicare-health
    2.This Projects is deployed by netlify.
    3.It is build Projects.
